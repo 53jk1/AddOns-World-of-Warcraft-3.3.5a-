@@ -1,0 +1,23 @@
+<!--
+	Kui Lib
+	Kesava
+	Just some helpful functions and tables.
+-->
+<Ui xmlns="http://www.blizzard.com/wow/ui/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
+	<!-- media table & event frame -->
+	<Script file='base\main.lua' />
+	<!-- global helper functions -->
+	<Script file='base\funcs.lua' />
+
+	<!-- plugin helpers -->
+	<Script file='helpers\plugins.lua' />
+	<Script file='helpers\events.lua' />
+	<Script file='helpers\tasks.lua' />
+	<Script file='helpers\slash.lua' />
+	<Script file='helpers\config.lua' />
+	
+	<!-- register with itself -->
+	<Script file='base\register.lua' />
+</Ui>

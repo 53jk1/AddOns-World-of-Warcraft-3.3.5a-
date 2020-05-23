@@ -1,0 +1,9 @@
+## Interface: 40300
+## Author: Kesava
+## Title: |cff9900ffKui|r Nameplates
+## Notes: Prettier, lightweight, configurable nameplates.
+## Dependencies: Kui
+## SavedVariablesPerCharacter: KuiNameplatesSaved
+
+slash.lua
+layout.lua

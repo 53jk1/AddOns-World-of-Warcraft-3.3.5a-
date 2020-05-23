@@ -1,0 +1,17 @@
+## Title: Swatter |cff224477(lib)
+## Notes: Debugging tool for handling and displaying of error messages in a useful way.
+##
+## Interface: 40200
+## SavedVariables: SwatterData
+##
+## Version: 5.12.5198 (QuirkyKiwi)
+## Revision: $Id: !Swatter.toc 314 2011-07-04 17:02:12Z Nechckn $
+## Author: Norganna's AddOns
+## X-Part-Of: Libraries
+## X-Category: Library
+## X-Max-Interface: 40200
+## X-URL: http://zip.norganna.org/libs/!Swatter/
+## X-Feedback: http://forums.norganna.org
+##
+Support\Load.xml
+Swatter.lua

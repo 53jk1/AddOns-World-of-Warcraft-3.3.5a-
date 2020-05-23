@@ -1,0 +1,31 @@
+------------------------------------------------------------------------
+r300 | zarnivoop | 2010-06-16 20:38:00 +0000 (Wed, 16 Jun 2010) | 2 lines
+Changed paths:
+   M /trunk/Skada.lua
+
+Slight fix.
+
+------------------------------------------------------------------------
+r299 | zarnivoop | 2010-06-15 21:31:01 +0000 (Tue, 15 Jun 2010) | 2 lines
+Changed paths:
+   M /trunk/Skada.lua
+
+Fix that detection a bit.
+
+------------------------------------------------------------------------
+r298 | zarnivoop | 2010-06-15 21:18:19 +0000 (Tue, 15 Jun 2010) | 2 lines
+Changed paths:
+   M /trunk/Skada.lua
+
+Added tentative combat detection (start processing CL events if it looks like we may enter combat).
+
+------------------------------------------------------------------------
+r297 | zarnivoop | 2010-06-12 20:10:30 +0000 (Sat, 12 Jun 2010) | 2 lines
+Changed paths:
+   M /trunk/changelog.txt
+   M /trunk/locale/enUS.lua
+   M /trunk/modules/SkadaDamageTaken/DamageTaken.lua
+
+Added a "Damage taken by spell" mode.
+
+------------------------------------------------------------------------

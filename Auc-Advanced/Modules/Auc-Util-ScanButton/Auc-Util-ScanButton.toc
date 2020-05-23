@@ -1,0 +1,14 @@
+## Title: Auc:Util:Scan Button
+## Interface: 40200
+## Dependancies: Auc-Advanced
+##
+## Version: 5.12.5198 (QuirkyKiwi)
+## Revision: $Id: Auc-Util-ScanButton.toc 5194 2011-07-04 17:46:21Z Nechckn $
+## Author: Norganna's AddOns
+## X-Part-Of: Auctioneer
+## X-Category: Auction House
+## X-Max-Interface: 40200
+## X-URL: http://auctioneeraddon.com/
+## X-Feedback: http://forums.norganna.org
+##
+Embed.xml

@@ -1,0 +1,11 @@
+## Title: Auctioneer:Util:Example
+## Interface: 40200
+## Dependancies: Auc-Advanced
+##
+## Version: 5.12.5198 (QuirkyKiwi)
+## Revision: $Id: Auc-Util-Example.toc 5194 2011-07-04 17:46:21Z Nechckn $
+## URL: http://auctioneeraddon.com/
+## Author: Norganna's AddOns
+## X-Part-Of: Auctioneer
+##
+Embed.xml

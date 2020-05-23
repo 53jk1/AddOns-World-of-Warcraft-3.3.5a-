@@ -1,0 +1,18 @@
+## Title: SlideBar |cff224477(lib)
+## Notes: Allows alternative placement of minimap icons into an expanding bar that sits off the side of the screen, just below the Minimap, by default.
+## OptionalDeps: !Swatter, LibDataBroker
+##
+## Interface: 40200
+## LoadOnDemand: 0
+## SavedVariables: SlideBarConfig
+##
+## Version: 5.12.5198 (QuirkyKiwi)
+## Revision: $Id: SlideBar.toc 314 2011-07-04 17:02:12Z Nechckn $
+## Author: Norganna's AddOns
+## X-Part-Of: Libraries
+## X-Category: Library
+## X-Max-Interface: 40200
+## X-URL: http://zip.norganna.org/libs/SlideBar/
+## X-Feedback: http://forums.norganna.org
+##
+Load.xml

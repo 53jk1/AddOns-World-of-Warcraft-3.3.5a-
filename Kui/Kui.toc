@@ -1,0 +1,6 @@
+## Interface: 40200
+## Author: Kesava
+## Title: |cff9900ffKui|r Lib
+## Notes: Kesava's interface compilation
+## X-Category: Library
+kui.xml
